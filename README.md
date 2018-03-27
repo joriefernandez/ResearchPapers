@@ -2,4 +2,6 @@
 
 Academic research papers as required to complete the course works:
 
-Network Security: IoT and Security
+a. Network Security: IoT and Security
+b. Machine Learning: Social Media User Profiling
+
